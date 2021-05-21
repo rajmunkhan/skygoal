@@ -370,7 +370,7 @@ footer p{
         overflow-x: hidden;
     }
     nav{
-        padding:25px 0px;
+        padding:10px 0px;
     }
     .burger{
         display: block;
@@ -382,7 +382,7 @@ footer p{
         width: 50vw;
         background-color: #545ee7;
         position: absolute;
-        top: 135px;
+        top: 120px;
         right: 0;
         transform: translateX(100%);
         transition: 0.5s;
