@@ -390,7 +390,7 @@ footer p{
     .uls{
         padding:10px;
         z-index: 2;
-        height: 80vh;
+        height: 85vh;
         width: 50vw;
         background-color: #545ee7;
         position: absolute;
@@ -419,6 +419,9 @@ footer p{
         background: none;
         background-color: transparent;
         border: 1px solid white;
+        box-shadow: none;
+    }
+    .signin:hover{
         box-shadow: none;
     }
     .about .cards{
