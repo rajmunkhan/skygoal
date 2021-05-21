@@ -369,6 +369,8 @@ footer p{
     body{
         overflow-x: hidden;
     }
+    nav{
+        padding:25px 0px
     .burger{
         display: block;
     }
